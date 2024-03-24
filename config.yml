@@ -1,0 +1,28 @@
+# INTENTS VERSION 1.1
+# CONFIG.YML
+# BY danio#7394!
+# Contact me on discord for support!
+
+
+#-----------------------------------------------------------------------------------------------------------------------
+Messagges:
+  gmc-msg: '&b✸ You changed your gamemode to: &3creative.'
+  gms-msg: '&b✸ You changed your gamemode to: &3survival.'
+  gma-msg: '&b✸ You changed your gamemode to: &3adventure.'
+  gmsp-msg: '&b✸ You changed your gamemode to: &3spectator.'
+  gamemode-change-msg-other: '&b✸ You changed your %target% gamemode.'
+  only-player: '&c✸ You have to be a player to perform this command!.'
+  specify-command: '&b✸ Correct usage: &3%command% [player].'
+  no-perms: '&c✸ Im sorry, but you don''t have permission to perform this command!.'
+  fly-on-msg: '&3✸ Fly enabled.'
+  fly-off-msg: '&b✸ Fly disabled.'
+  fly-on-msg-other-player: '&b✸ Fly disabled to: &3%target%.'
+  fly-off-msg-other-player: '&3✸ Fly enabled to: &b%target%.'
+  offline-player: '&c✸ The selected player is offline.'
+  reload-msg: '&a✸ Plugin reloaded succesfully.'
+  discord-message: '&b&l✸ DISCORD&f: discord.server.it, &c(Change this by the config.yml file!).'
+  tp-mess: '&b✸ Teleporting...'
+  airhat: '&c✸ I don''t think you can set your hat to &c&lAIR!'
+  hatsetup: '&b✸ You successfully changed you hat to: &3%item%'
+
+#-----------------------------------------------------------------------------------------------------------------------

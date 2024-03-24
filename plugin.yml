@@ -1,0 +1,36 @@
+name: Intents
+main: important.Main
+version: 1.1
+description: A simple *special* plugin!
+api-version: 1.12
+commands:
+  gmc:
+    description: Command to pass on gamemode creative
+    aliases: [creative, creativa ]
+  gms:
+    description: Command to pass on gamemode survival
+    aliases: [ survival, sopravvivenza ]
+  fly:
+    description: Command to activate/disable fly
+    aliases: [ vola ]
+  gma:
+    description: Command to pass on gamemode adventure
+    aliases: [ adventure, avventura ]
+  gmsp:
+    description: Command to pass on gamemode spectator
+    aliases: [ spectator, spettatore ]
+  intents:
+    description: General command of the plugin
+    aliases: [ int ]
+  discord:
+    description: Command to send the discord string (read the config.yml file)
+    aliases: [ ds ]
+  tp:
+    description: Command to teleport players
+    aliases: [ teleport ]
+  tphere:
+    description: Command to teleport another player from you
+    aliases: [ teleporthere ]
+  hat:
+    description: Command that sets the currently held item as your hat.
+    aliases: [ cappello ]
